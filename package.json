@@ -1,0 +1,22 @@
+{
+  "name": "pluto-rest",
+  "version": "1.0.0",
+  "description": "A JavaScript interface for the Pluto.jl \"What you see is what you REST\" web API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrekker/pluto-rest.git"
+  },
+  "author": "Connor Burns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctrekker/pluto-rest/issues"
+  },
+  "homepage": "https://github.com/ctrekker/pluto-rest#readme",
+  "dependencies": {
+    "msgpack-lite": "0.1.26"
+  }
+}
