@@ -1,6 +1,6 @@
 {
   "name": "pluto-rest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript interface for the Pluto.jl \"What you see is what you REST\" web API.",
   "main": "index.js",
   "scripts": {
