@@ -2,7 +2,9 @@
 A JavaScript interface for the Pluto.jl \"What you see is what you REST\" web API.
 
 ## Installation
-TODO (eventually NPM)
+```
+npm install pluto-rest
+```
 
 ## Usage
 The following example is based off the REST Docs.jl Pluto notebook. Also note that this example must be wrapped in an [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function).
